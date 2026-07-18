@@ -3,7 +3,7 @@ import { FiLinkedin, FiGithub, FiMail } from 'react-icons/fi';
 const teamMembers = [
   {
     name: 'Wenuja Liyanamana',
-    role: 'CS Undergrad',
+    role: 'CS Major',
     email: 'mailto:wenujaweb@gmail.com',
     linkedin: 'https://linkedin.com/in/wenuja',
     github: 'https://github.com/wenuja',
@@ -11,8 +11,8 @@ const teamMembers = [
   },
   {
     name: 'Ramiru Wanigathunga',
-    role: 'AI Undergrad',
-    email: 'mailto:ramiru@gmail.com',
+    role: 'AI Major',
+    email: 'mailto:samagispicesexport@gmail.com',
     linkedin: 'https://linkedin.com/in/ramiru',
     github: 'https://github.com/ramiru',
     image: '/avatar_ramiru.jpg'

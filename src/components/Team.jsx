@@ -5,16 +5,16 @@ const teamMembers = [
     name: 'Wenuja Liyanamana',
     role: 'CS Undergrad',
     email: 'mailto:wenujaweb@gmail.com',
-    linkedin: 'https://linkedin.com/in/wenuja',
-    github: 'https://github.com/wenuja',
-    image: '/avatar_wenuja.jpg'
+    linkedin: 'https://linkedin.com/in/wenujaliyanamana',
+    github: 'https://github.com/wenujacodes',
+    image: '/avatar_wenuja.jpeg'
   },
   {
     name: 'Ramiru Wanigathunga',
     role: 'AI Undergrad',
     email: 'mailto:ramiru@gmail.com',
-    linkedin: 'https://linkedin.com/in/ramiru',
-    github: 'https://github.com/ramiru',
+    linkedin: 'https://linkedin.com/in/ramiruwanigathunga',
+    github: 'https://github.com/RamiruWanigathunga',
     image: '/avatar_ramiru.jpg'
   }
 ];

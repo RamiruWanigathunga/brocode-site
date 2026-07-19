@@ -5,23 +5,27 @@ const teamMembers = [
     name: 'Wenuja Liyanamana',
     role: 'CS Major',
     email: 'mailto:wenujaweb@gmail.com',
-    linkedin: 'https://linkedin.com/in/wenuja',
-    github: 'https://github.com/wenuja',
+    linkedin: 'https://www.linkedin.com/in/wenujaliyanamana',
+    github: 'https://github.com/wenujacodes',
     image: '/avatar_wenuja.jpeg'
   },
   {
     name: 'Ramiru Wanigathunga',
     role: 'AI Major',
     email: 'mailto:samagispicesexport@gmail.com',
-    linkedin: 'https://linkedin.com/in/ramiru',
-    github: 'https://github.com/ramiru',
+    linkedin: 'https://www.linkedin.com/in/ramiruwanigathunga',
+    github: 'https://github.com/ramiruwanigathunga',
     image: '/avatar_ramiru.jpg'
   }
 ];
 
 export default function Team() {
   return (
-    <section className="w-full font-mono">
+    <section className="w-full font-mono mt-8">
+      <div className="flex items-center gap-2 mb-8">
+        <span className="text-brand text-xl font-bold">&gt;</span>
+        <h2 className="text-xl text-white font-bold tracking-tight">Meet_The_Devs</h2>
+      </div>
       <div className="grid grid-cols-2 gap-10">
         {teamMembers.map((member, idx) => (
           <div key={idx} className="flex flex-col items-center text-center gap-4">

@@ -12,7 +12,7 @@ export default function Hero() {
         </a>
       </div>
       <p className="text-sm md:text-base text-gray-400 max-w-2xl mx-auto font-mono">
-        Two undergrad devs cooking random ideas, breaking stuff, fixing it at 3AM, and somehow shipping real projects.
+        We are an undergraduate software development collective. Cooking random ideas, building web apps and AI integrations, breaking stuff, fixing it at 3AM, and somehow shipping real projects.
       </p>
     </section>
   );

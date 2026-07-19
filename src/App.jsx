@@ -4,7 +4,7 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className="min-h-screen bg-dark-bg text-gray-200 font-sans flex flex-col items-center justify-center px-6">
+    <div className="min-h-screen bg-dark-bg text-gray-200 font-sans flex flex-col items-center justify-center px-6 py-12 md:py-20">
       <main className="w-full max-w-4xl space-y-16 md:space-y-12">
         <Hero />
         <Team />
